@@ -1,0 +1,21 @@
+{
+  "name": "EduDias - Sparks of Brilliance",
+  "short_name": "EduDias",
+  "start_url": "https://www.edudias.in/?utm_source=pwa",
+  "display": "standalone",
+  "background_color": "#142032",
+  "theme_color": "#142032",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinpMAtMCmMeeE3d5xYHR21_wBwUOOP-PD8Vr6H53iXY0wkfI-SDmiSIJp-pE4XtEA_v8djX6LdLpcIJG010BC7_EBzyHUNOZOIrn6w8ZR33oQXsXRT5ivC1CX7uPmARPwD7IlurWB_Aoo79oBFFFPiRUWkCZFPzxmX8Abf5-O4L7OOFtbtR7YYKIP5ITU-/s192/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinpMAtMCmMeeE3d5xYHR21_wBwUOOP-PD8Vr6H53iXY0wkfI-SDmiSIJp-pE4XtEA_v8djX6LdLpcIJG010BC7_EBzyHUNOZOIrn6w8ZR33oQXsXRT5ivC1CX7uPmARPwD7IlurWB_Aoo79oBFFFPiRUWkCZFPzxmX8Abf5-O4L7OOFtbtR7YYKIP5ITU-/s512/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
